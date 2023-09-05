@@ -1,2 +1,2 @@
-# Advanced-Machine-Learning
-Advanced Machine Learning Programming Assigments
+# Advanced Machine Learning
+Advanced Machine Learning Programming Assignments
