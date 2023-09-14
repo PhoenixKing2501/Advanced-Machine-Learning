@@ -8,7 +8,7 @@
 2. Make sure the data has this folder structure in the same directory as the notebook:
 ```
 energy+efficiency
-├── ENB2012_data
+├── ENB2012_data.xlsx
 ```
 3. Open the Jupiter notebook `Utsav_Basu_20CS30057.ipynb` and run all the cells in order.
 
